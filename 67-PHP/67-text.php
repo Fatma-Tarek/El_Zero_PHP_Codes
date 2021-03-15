@@ -1,0 +1,1 @@
+<?php echo "Training is done";?>
